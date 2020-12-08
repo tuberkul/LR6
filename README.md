@@ -32,7 +32,7 @@
 
 Используя git show получила более подробную информацию по последнему изменению
 
-![git show](screenshots/Screenshot8.png)
+![git show](screens/Screenshot8.png)
 
 Командой _git checkout -t branch1_ переключилась на другую ветку branch
 
